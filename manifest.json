@@ -1,0 +1,8 @@
+{
+  "name": "SH Add-ons Hub",
+  "version": "0.1.0-beta",
+  "channel": "beta",
+  "min_tng": "15.0.0",
+  "zip": "",
+  "notes": "First public feed. Encoded package URL is filled when a release zip is published."
+}
