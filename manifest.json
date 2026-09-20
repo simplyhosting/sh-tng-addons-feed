@@ -1,8 +1,8 @@
 {
   "name": "SH Add-ons Hub",
-  "version": "0.1.0-beta",
+  "version": "0.1.1-beta",
   "channel": "beta",
   "min_tng": "15.0.0",
-  "zip": "",
-  "notes": "First public feed. Encoded package URL is filled when a release zip is published."
+  "zip": "https://shnw.net/tng-addons/sh-addons-hub-0.1.1-beta.zip",
+  "notes": "Encoded Hub engines plus wrappers. Config files are left in place."
 }
